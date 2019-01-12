@@ -1,6 +1,6 @@
 # React Memory Game
-Memory Game to Demo React Components, State, and Response to User Events
-Bootcamp Assignment 1/12/2019 - All the News That's Fit to Scrape
+Memory Game to Demo React Components, State, and Response to User Events     
+Bootcamp Assignment 1/12/2019 - Clicky Game
 ![React Memory Game Banner](https://user-images.githubusercontent.com/39141985/51070770-7ecf4c00-15fb-11e9-9963-195baa9276e4.png)
 
 
