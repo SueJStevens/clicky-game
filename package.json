@@ -1,0 +1,19 @@
+{
+  "name": "clicky-game",
+  "version": "1.0.0",
+  "description": "Memory Game to Demo React Components, State, and Response to User Events Bootcamp Assignment 1/12/2019 - All the News That's Fit to Scrape",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SueJStevens/clicky-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SueJStevens/clicky-game/issues"
+  },
+  "homepage": "https://github.com/SueJStevens/clicky-game#readme"
+}
