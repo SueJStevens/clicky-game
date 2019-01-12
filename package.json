@@ -2,6 +2,9 @@
   "name": "clicky-game",
   "version": "1.0.0",
   "description": "Memory Game to Demo React Components, State, and Response to User Events Bootcamp Assignment 1/12/2019 - All the News That's Fit to Scrape",
+  "engines": {
+    "node": "10.14.1"
+  },
   "main": "server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
