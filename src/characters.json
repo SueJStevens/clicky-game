@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Snoopy",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Snoopy_Peanuts.png/200px-Snoopy_Peanuts.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Droopy",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/fd/Droopy_dog.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Pluto",
+    "image": "https://vignette.wikia.nocookie.net/disney/images/7/7b/Pluto.PNG/revision/latest?cb=20170628205507",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Yogi Bear",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Yogi_Bear_Yogi_Bear.png/200px-Yogi_Bear_Yogi_Bear.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Goofy",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Goofy.svg/220px-Goofy.svg.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Huckleberry Hound",
+    "image": "https://vignette.wikia.nocookie.net/hanna-barbera/images/4/44/Huckhound.jpg/revision/latest?cb=20090418215020",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Underdog",
+    "image": "https://dogzone-tcwebsites.netdna-ssl.com/wp-content/uploads/2015/09/Underdog-cartoon-dog-names-2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Sam Sheepdog",
+    "image": "https://c7.uihere.com/files/280/90/366/ralph-wolf-and-sam-sheepdog-old-english-sheepdog-sheep-dog-n-wolf-looney-tunes-animated-cartoon-old-english-sheepdog.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Charlie Dog",
+    "image": "https://orig00.deviantart.net/442c/f/2013/316/8/9/charlie_dog_by_barontremaynecaple-d6u07mg.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Astro",
+    "image": "https://dogzone-tcwebsites.netdna-ssl.com/wp-content/uploads/2015/09/astro-cartoon-dog-names-2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Brian Griffin",
+    "image": "https://dogzone-tcwebsites.netdna-ssl.com/wp-content/uploads/2015/09/brian-griffin-cartoon-dog-names-2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Clifford",
+    "image": "https://dogzone-tcwebsites.netdna-ssl.com/wp-content/uploads/2015/09/clifford-cartoon-dog-names-2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "name": "Mr. Peabody",
+    "image": "https://dogzone-tcwebsites.netdna-ssl.com/wp-content/uploads/2015/09/Mr-peabody-cartoon-dog-names-2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "name": "Scooby-Doo",
+    "image": "https://dogzone-tcwebsites.netdna-ssl.com/wp-content/uploads/2015/09/scooby-doo-cartoon-dog-names-2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "name": "Pongo",
+    "image": "https://vignette.wikia.nocookie.net/disney/images/6/60/Pongo_romo.png/revision/latest?cb=20160613084000",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "name": "Perdita",
+    "image": "https://vignette.wikia.nocookie.net/disney/images/3/3a/Perdita_romo.png/revision/latest?cb=20160613083920",
+    "clicked": false
+  }
+]
